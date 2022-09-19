@@ -1743,6 +1743,63 @@
             "timeTogether": 53068,
             "timeApart": 26666,
             "timeInactive": 6666
+        },
+        {
+            "weekday": "Sunday",
+            "sleepStart": "2021-12-19 12:00:00",
+            "sleepEnd": "2021-12-20 12:00:00",
+            "activityStart": "2021-12-19 00:00:00",
+            "activityEnd": "2021-12-20 00:00:00",
+            "participants": [
+                {
+                    "tag": "P1",
+                    "steps": {
+                        "duration": 9198,
+                        "total": 6570,
+                        "distance": 657
+                    },
+                    "sleep": [
+                        {
+                            "start": "2021-12-19 22:43:36",
+                            "stop": "2021-12-20 07:18:28"
+                        }
+                    ]
+                },
+                {
+                    "tag": "P2",
+                    "steps": {
+                        "duration": 9060,
+                        "total": 1984,
+                        "distance": 1626277
+                    },
+                    "sleep": []
+                }
+            ],
+            "roomsActivity": [
+                {
+                    "room": "Dining Room",
+                    "occupancy": 4456
+                },
+                {
+                    "room": "Kitchen",
+                    "occupancy": 18644
+                },
+                {
+                    "room": "Hallway",
+                    "occupancy": 5535
+                },
+                {
+                    "room": "Bedroom",
+                    "occupancy": 32464
+                },
+                {
+                    "room": "Bathroom",
+                    "occupancy": 13106
+                }
+            ],
+            "timeTogether": 39172,
+            "timeApart": 37783,
+            "timeInactive": 9445
         }
     ]
 }
